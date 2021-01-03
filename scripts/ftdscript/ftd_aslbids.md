@@ -30,7 +30,7 @@ The following parameters were added to PASL data:
 ```
 `M0` was set to 1 to avoid aslprep using control image for CBF computation because control image has background suppressed.
 
-This [python script](checkthedata.py) was used to correct add all the paremeters. 
+This [python script](checkthedata.py) was used to correct data name and add all the paremeters. 
 
 
 
