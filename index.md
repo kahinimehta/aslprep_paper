@@ -17,4 +17,5 @@ Five datasets were used for this study and all the data were in [BIDS](https://b
 5. AGE dataset : Ageing data is publicly available on [Open Neuro](https://openneuro.org/datasets/ds000240/versions/00002)
 
 ### Data Preprocessing
-All the data were preprocessed with ASLPrep [(v0.2.6)](doi:10.5281/zenodo.4313273)singularity image on [CBICA](https://www.med.upenn.edu/cbica/cubic.html) HPC cluster
+All the data were preprocessed with ASLPrep [(v0.2.6)](doi:10.5281/zenodo.4313273)singularity image on [CBICA](https://www.med.upenn.edu/cbica/cubic.html) HPC cluster.
+
