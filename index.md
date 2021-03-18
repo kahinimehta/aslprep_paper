@@ -10,7 +10,7 @@ Five datasets were used for this study and all the data were in [BIDS](https://b
 
 2. NKI dataset : available on  the [NeuroImaging Tools and Resources Collaboratory](http://fcon_1000.projects.nitrc.org/indi/pro/nki.html)
 
-3. IRR dataset : Irritablity data is  available on request from the [PennLinc](www.pennlinc.io)
+3. IRR dataset : Irritablity data is  available on request from the [PennLinc](https://www.pennlinc.io/team)
 
 4. FTD dataset : Frontal-Temporal Degeneration data is available on request from [Penn Frontotemporal Degeneration Center](http://ftd.med.upenn.edu)
 
