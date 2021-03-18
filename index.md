@@ -19,3 +19,10 @@ Five datasets were used for this study and all the data were in [BIDS](https://b
 ### Data Preprocessing
 All the data were preprocessed with ASLPrep [(v0.2.6)](doi:10.5281/zenodo.4313273)singularity image on [CBICA](https://www.med.upenn.edu/cbica/cubic.html) HPC cluster.
 
+The processing script for all the datastes is organized in this [directory](/scripts).
+
+#### PNC processing data
+  1. THE PNC data were copied from [RBC](https://github.com/PennLINC/RBC) data exluding the  bold  and diffusion data.
+  The fieldmap metadata were corrected with this 
+  [script](/scripts/pncdata/fieldmappnc.py) and the ASL data were renamed in according to ASL-BIDS specifications.
+  2. 
