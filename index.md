@@ -37,7 +37,7 @@ The processing script for all the datastes is organized in this [directory](scri
   3. Computing time for both anatomical preprocessing and perfusion processing were noted.
 #### FTD data processing
  1. The FTD data were copy from [PMACS](https://www.med.upenn.edu/pmacs/) cluster with permission
-  2. All subjects were [processed by ASLPrep](scripts/ftdata/run_aslprep.sh)
+  2. All subjects were [processed by ASLPrep](scripts/ftddata/run_aslprep.sh)
   3. Computing time for both anatomical preprocessing and perfusion processing were noted.
 
 #### AGE data processing
