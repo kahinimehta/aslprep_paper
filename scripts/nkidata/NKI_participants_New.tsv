@@ -1,4 +1,4 @@
-participant_id	session	age	gender	handedness
+sub	ses	age	gender	handedness
 A00086748	BAS1	38	M	R
 A00086551	BAS1	40	F	R
 A00086551	FLU1	41	F	R
