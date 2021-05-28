@@ -1,4 +1,4 @@
-sub,scanid,sex,race,race2,ethnicity,ageAtClinicalAssess1,ageAtCnb1,ageAtScan1,edu1,fedu1,medu1,handednessv2,age
+bblid,scanid,sex,race,race2,ethnicity,ageAtClinicalAssess1,ageAtCnb1,ageAtScan1,edu1,fedu1,medu1,handednessv2,age
 80010,2894,1,1,1,2,260,260,261,14,20,16,1,21.75
 80179,2643,2,1,1,2,254,254,254,12,,14,1,21.16666667
 80199,2637,1,5,3,1,243,244,244,12,,12,1,20.33333333
