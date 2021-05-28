@@ -1,4 +1,4 @@
-sub,famid,istatus,sex,race,ethnic,hand,intakeby,age_intake,source,visitnum,height,weight,bmi,educ,occode,sex_preference,marital_status,nokids_sub,smoke,eversmoke,bbl_common_enroll,study_coordinator,study_group,study_status,enrollagemonths,visitagemonths
+sub,famid,istatus,sex,race,ethnic,hand,intakeby,age,source,visitnum,height,weight,bmi,educ,occode,sex_preference,marital_status,nokids_sub,smoke,eversmoke,bbl_common_enroll,study_coordinator,study_group,study_status,enrollagemonths,visitagemonths
 19977,7074,MOOD,2,1,2,1,sagerush,26,BBL,1,63,120,NA,18,2,NA,5,0,2,2,Y,sagerush,Family,completed,323,323
 19981,7075,UNK,2,2,2,1,sagerush,22,BBL,1,71,158,22.03,13,99,NA,5,0,2,2,Y,sagerush,Family,completed,273,273
 20011,7078,MOOD,2,1,2,1,sagerush,21,BBL,1,64,150,25.74,14,20,NA,5,0,2,2,Y,sagerush,Family,completed,256,256
