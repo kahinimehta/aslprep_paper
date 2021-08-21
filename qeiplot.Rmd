@@ -1,0 +1,47 @@
+---
+title: "ASLPrep Test for data"
+output:
+  html_document:
+    df_print: paged
+---
+
+Load the required packages
+
+```{r}
+library(ggplot2)
+library(mgcv)
+library(visreg)
+library(reshape2)
+library(ggpubr)
+library(ggpattern)
+library(plyr)
+library(ggsignif)
+library(lmerTest)
+```
+
+Read the data in
+1. the data has many datasets (eg PNC). The aim is to show relationship bewteen QEI and FD. 
+We are also interested in interection of CBFTTYPE with FD. 
+
+
+```{r}
+datax = read.csv('~/Documents/aslprep_paper/gmdata2.csv')
+head(datax)
+unique(datax$CBFTYPE)
+```
+```{r}
+pnc <- subset(datax, Datasets=='PNC')
+
+# is this smodel correct?
+pnc.model <- lmerTest::lmer(QEI ~ CBFTYPE + FD + CBFTYPE*FD  + (1 | sub ), data=pnc)
+
+summary(pnc.model)
+
+```
+
+There are 4 unique CBFTYPE ( "SCBF"  "SCRUB" "BASIL" "PVC"), but only 3 is shown in the result
+BASIL is missing.
+What do we report to show significant of the CBFTYPE interaction with FD
+
+
+
