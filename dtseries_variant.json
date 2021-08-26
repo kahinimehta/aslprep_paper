@@ -1,0 +1,7 @@
+{
+  "space": "HCP grayordinates",
+  "surface": "fsLR",
+  "volume": "MNI152NLin6Asym",
+  "surface_density": "32k",
+  "grayordinates": "91k"
+}
