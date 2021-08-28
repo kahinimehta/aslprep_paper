@@ -7,3 +7,4 @@ scripts/.DS_Store
 scripts/.DS_Store
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
 *.ai
+*.gz
