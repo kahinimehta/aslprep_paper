@@ -7,3 +7,9 @@ scripts/.DS_Store
 scripts/.DS_Store
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
 *.ai
+*.gz
+rh_spin_test__output.csv
+rhx_spin_test__output.csv
+*.mat
+lh_spin_test__output.csv
+lhx_spin_test__output.csv
