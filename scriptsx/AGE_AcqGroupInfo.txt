@@ -1,5 +1,0 @@
-1 30 ('datatype-anat_suffix-T1w', 1) ('suffix-asl', 1)
-2 17 ('datatype-anat_suffix-T1w', 2) ('suffix-asl', 2)
-3 13 ('datatype-anat_suffix-T1w', 3) ('suffix-asl', 3)
-4 2 ('datatype-anat_suffix-T1w', 4) ('suffix-asl', 1)
-5 1 ('datatype-anat_suffix-T1w', 3) ('suffix-asl', 2)
