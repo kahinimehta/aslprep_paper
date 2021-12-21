@@ -20,7 +20,7 @@ All the data were preprocessed with ASLPrep singularity image on [CBICA](https:/
 
 The processing script for all the datastes is organized in this [directory](scripts).
 
-![preroc](aslprep_paper/figures/Figure2.png)
+![preroc](figures/Figure2.png)
 
 #### PNC data processing
   1. The PNC data were copied from [RBC](https://github.com/PennLINC/RBC) 
