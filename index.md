@@ -51,4 +51,6 @@ The processing script for all the datasets is organized in this [directory](scri
 
 
 ## Mean Cerebral Blood Flow(CBF)
-The mean CBF within Grey Matter (GM)  and  White Matter (WM) masks were extracted from all the subjects and CBF methods. These mean CBF values were plotted for all the datasets as shown in Figure 2A and Supplementary Figure 4. THe  the anticipated nonlinear decline of CBF over the lifespan was clearly evident  as shown in Figure 2B and  Supplementary Figure 5. The summary of this analysis is summarised in this [notebook](/FigureA.ipynb)
+The mean CBF within Grey Matter (GM)  and  White Matter (WM) masks were extracted from all the subjects and with each of the 5 CBF methods. These mean CBF values were plotted for all the datasets as shown in Figure 2A and Supplementary Figure 4. The anticipated nonlinear decline of CBF over the lifespan was clearly evident as shown in Figure 2B and Supplementary Figure 5. The summary of this analysis is summarised in this [notebook](/FigureA.ipynb)
+
+![preroc](figures/Figure1.png)
